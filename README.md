@@ -19,3 +19,4 @@ Backend: Java, Spring Boot, Spring Data JPA, Hibernate
 Frontend: Thymeleaf, Bootstrap, HTML, CSS
 Database: MySQL
 Build Tool: Maven
+
