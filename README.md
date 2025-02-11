@@ -31,6 +31,7 @@ Build Tool: Maven
 📂 Project Structure
 
 LibraryManagementSystem/
+```
 │── src/
 │   ├── main/
 │   │   ├── java/com/example/LibraryManagementSystem/
@@ -45,7 +46,7 @@ LibraryManagementSystem/
 │   │   │   ├── application.properties  # Database Config
 │── pom.xml  # Maven dependencies
 │── README.md
-
+```
 ⚙️ Installation & Setup
 
 1️⃣ Prerequisites
@@ -81,16 +82,6 @@ spring.jpa.hibernate.ddl-auto=update
 mvn spring-boot:run
 
 Access the app at: http://localhost:8080/books
-
-📷 Screenshots
-
-📌 Books List Page
-
-
-
-📌 Add Book Page
-
-
 
 📜 License
 
